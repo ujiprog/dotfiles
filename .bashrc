@@ -1,3 +1,4 @@
+source ~/.bash_env
 alias v='vim'
 alias nv='nvim'
 alias vf='vim ~/.config/fish/config.fish'
